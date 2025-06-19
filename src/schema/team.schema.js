@@ -1,0 +1,12 @@
+/*
+  id 
+  Team Name 
+  sportsName
+  sportsType
+  photoUrl
+  photo
+  phone number
+  alternative number 
+  ground location
+  pincode
+*/
